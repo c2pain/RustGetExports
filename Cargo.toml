@@ -1,0 +1,13 @@
+[package]
+name = "RustGetExports"
+version = "0.1.0"
+edition = "2021"
+authors = ["c2pain"]
+
+[dependencies]
+regex = "1"
+clap = { version = "4", features = ["derive"] }
+log = "0.4"
+
+[profile.release]
+pic = true
