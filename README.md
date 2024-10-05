@@ -1,4 +1,4 @@
-# RustGetExports (Exporting the exported function in Rust)
+# RustGetExports
 
 <p align="left">
 	<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/made%20with-Rust-red"></a>
@@ -46,5 +46,5 @@ RefreshConsole
 RegisterContext
 ```
 
-## Reference
+## Credits
 [Get-Exports.ps1](https://github.com/gtworek/PSBits/blob/master/Misc2/Get-Exports.ps1) by @gtworek
